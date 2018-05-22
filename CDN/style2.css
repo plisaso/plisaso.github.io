@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'jjy';
+  src:  url('fonts/jjy.eot?dvklsh');
+  src:  url('fonts/jjy.eot?dvklsh#iefix') format('embedded-opentype'),
+    url('fonts/jjy.ttf?dvklsh') format('truetype'),
+    url('fonts/jjy.woff?dvklsh') format('woff'),
+    url('fonts/jjy.svg?dvklsh#jjy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="jjy-"], [class*=" jjy-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'jjy' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jjy-platzi:before {
+  content: "\e913";
+}
+.jjy-uplabs:before {
+  content: "\e900";
+}
+.jjy-envato:before {
+  content: "\e901";
+}
+.jjy-logopond:before {
+  content: "\e902";
+}
+.jjy-freelancer:before {
+  content: "\e903";
+}
+.jjy-designcontest:before {
+  content: "\e904";
+}
+.jjy-medium:before {
+  content: "\e905";
+}
+.jjy-bitbucket:before {
+  content: "\e906";
+}
+.jjy-codepen:before {
+  content: "\e907";
+}
+.jjy-email:before {
+  content: "\e911";
+}
+.jjy-blogger:before {
+  content: "\e912";
+}
+.jjy-brand:before {
+  content: "\e912";
+}
+.jjy-social:before {
+  content: "\e912";
+}
+.jjy-pinterest:before {
+  content: "\e908";
+}
+.jjy-wordpress:before {
+  content: "\e909";
+}
+.jjy-stackoverflow:before {
+  content: "\e90a";
+}
+.jjy-github:before {
+  content: "\e90b";
+}
+.jjy-youtube:before {
+  content: "\e90c";
+}
+.jjy-linkedin:before {
+  content: "\e90d";
+}
+.jjy-facebook:before {
+  content: "\e90e";
+}
+.jjy-google:before {
+  content: "\e90f";
+}
+.jjy-twitter:before {
+  content: "\e910";
+}
