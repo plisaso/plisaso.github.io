@@ -1,0 +1,6 @@
+Contact: mailto:webpl23@pm.me
+Expires: 2030-12-31T23:59:00.000Z
+
+Preferred-Languages: en
+
+Canonical: https://pablolisaso.com/.well-known/security.txt

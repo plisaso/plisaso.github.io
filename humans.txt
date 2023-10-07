@@ -1,0 +1,10 @@
+/* TEAM */
+	Chef: Pablo Lisaso
+	Twitter: @plisaso
+	From: Spain
+	
+/* SITE */
+	Last update:2013/10/07
+	Language: Castellano
+	Doctype:HTML5
+	IDE: Notepad++, FileZilla, GIMP, WORDPRESS
